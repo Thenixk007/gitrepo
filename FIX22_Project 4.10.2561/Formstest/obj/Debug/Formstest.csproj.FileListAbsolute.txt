@@ -1,0 +1,1025 @@
+D:\DEMO\Formstest\Formstest\bin\Debug\Formstest.exe.config
+D:\DEMO\Formstest\Formstest\bin\Debug\Formstest.exe
+D:\DEMO\Formstest\Formstest\bin\Debug\Formstest.pdb
+D:\DEMO\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\DEMO\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+D:\DEMO\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\DEMO\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\DEMO\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\DEMO\Formstest\Formstest\obj\Debug\Formstest.exe
+D:\DEMO\Formstest\Formstest\obj\Debug\Formstest.pdb
+D:\DEMO\Formstest\Formstest\obj\Debug\Formstest.L1.resources
+D:\DEMO\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+C:\Users\siwak\Desktop\DEMO\Formstest\Formstest\bin\Debug\Formstest.exe.config
+C:\Users\siwak\Desktop\DEMO\Formstest\Formstest\bin\Debug\Formstest.exe
+C:\Users\siwak\Desktop\DEMO\Formstest\Formstest\bin\Debug\Formstest.pdb
+C:\Users\siwak\Desktop\DEMO\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+C:\Users\siwak\Desktop\DEMO\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+C:\Users\siwak\Desktop\DEMO\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+C:\Users\siwak\Desktop\DEMO\Formstest\Formstest\obj\Debug\Formstest.L1.resources
+C:\Users\siwak\Desktop\DEMO\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+C:\Users\siwak\Desktop\DEMO\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+C:\Users\siwak\Desktop\DEMO\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+C:\Users\siwak\Desktop\DEMO\Formstest\Formstest\obj\Debug\Formstest.exe
+C:\Users\siwak\Desktop\DEMO\Formstest\Formstest\obj\Debug\Formstest.pdb
+C:\Users\siwak\Desktop\DEMO\Formstest\Formstest\obj\Debug\Formstest.Conl1.resources
+D:\DEMO\DEMO2\Formstest\Formstest\bin\Debug\Formstest.exe.config
+D:\DEMO\DEMO2\Formstest\Formstest\bin\Debug\Formstest.exe
+D:\DEMO\DEMO2\Formstest\Formstest\bin\Debug\Formstest.pdb
+D:\DEMO\DEMO2\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\DEMO\DEMO2\Formstest\Formstest\obj\Debug\Formstest.Conl1.resources
+D:\DEMO\DEMO2\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+D:\DEMO\DEMO2\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+D:\DEMO\DEMO2\Formstest\Formstest\obj\Debug\Formstest.L1.resources
+D:\DEMO\DEMO2\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\DEMO\DEMO2\Formstest\Formstest\obj\Debug\Formstest.Vcodel1.resources
+D:\DEMO\DEMO2\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\DEMO\DEMO2\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\DEMO\DEMO2\Formstest\Formstest\obj\Debug\Formstest.exe
+D:\DEMO\DEMO2\Formstest\Formstest\obj\Debug\Formstest.pdb
+D:\DEMO\DEMO2\Formstest\Formstest\obj\Debug\Formstest.VcodeLL1.resources
+D:\DEMO\DEMO2\L1 demo 6.7.2561\Formstest\Formstest\bin\Debug\Formstest.exe.config
+D:\DEMO\DEMO2\L1 demo 6.7.2561\Formstest\Formstest\bin\Debug\Formstest.exe
+D:\DEMO\DEMO2\L1 demo 6.7.2561\Formstest\Formstest\bin\Debug\Formstest.pdb
+D:\DEMO\DEMO2\L1 demo 6.7.2561\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\DEMO\DEMO2\L1 demo 6.7.2561\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+D:\DEMO\DEMO2\L1 demo 6.7.2561\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+D:\DEMO\DEMO2\L1 demo 6.7.2561\Formstest\Formstest\obj\Debug\Formstest.L1.resources
+D:\DEMO\DEMO2\L1 demo 6.7.2561\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\DEMO\DEMO2\L1 demo 6.7.2561\Formstest\Formstest\obj\Debug\Formstest.Vcodel1.resources
+D:\DEMO\DEMO2\L1 demo 6.7.2561\Formstest\Formstest\obj\Debug\Formstest.VcodeLL1.resources
+D:\DEMO\DEMO2\L1 demo 6.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\DEMO\DEMO2\L1 demo 6.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\DEMO\DEMO2\L1 demo 6.7.2561\Formstest\Formstest\obj\Debug\Formstest.exe
+D:\DEMO\DEMO2\L1 demo 6.7.2561\Formstest\Formstest\obj\Debug\Formstest.pdb
+D:\DEMO\DEMO2\L1 demo 6.7.2561\Formstest\Formstest\obj\Debug\Formstest.ConfixLED.resources
+D:\DEMO\DEMO2\L1 demo 6.7.2561\Formstest\Formstest\obj\Debug\Formstest.exLED.resources
+D:\DEMO\DEMO2\L1 demo 6.7.2561\Formstest\Formstest\obj\Debug\Formstest.codeex1.resources
+D:\DEMO\DEMO2\L1 demo 6.7.2561\Formstest\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\DEMO\DEMO2\L1 demo 6.7.2561\Formstest\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\bin\Debug\Formstest.exe.config
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\bin\Debug\Formstest.exe
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\bin\Debug\Formstest.pdb
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.codeex1.resources
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.ConfixLED.resources
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.exLED.resources
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.L1.resources
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.Vcodel1.resources
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.VcodeLL1.resources
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.exe
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.pdb
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.L2.resources
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.Confixbuttonl2.resources
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.vpushbutton.resources
+D:\DEMO\DEMO2\L1 demo 10.7.61\Formstest\Formstest\obj\Debug\Formstest.upl2.resources
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\Formstest.exe.config
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\Formstest.exe
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\Formstest.pdb
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\ArduinoUploader.dll
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\NLog.dll
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\NLog.xml
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.codeex1.resources
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Confixbuttonl2.resources
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.ConfixLED.resources
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.exLED.resources
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.L1.resources
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.L2.resources
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.upl2.resources
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Vcodel1.resources
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.VcodeLL1.resources
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.vpushbutton.resources
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.exe
+D:\โปรเจค\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.pdb
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\Formstest.exe.config
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\Formstest.exe
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\Formstest.pdb
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\NLog.xml
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.codeex1.resources
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Confixbuttonl2.resources
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.ConfixLED.resources
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.exLED.resources
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.L1.resources
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.L2.resources
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.upl2.resources
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Vcodel1.resources
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.VcodeLL1.resources
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.vpushbutton.resources
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.exe
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.pdb
+D:\DEMO\L12 demo  16.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.lesson1C.resources
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\Formstest.exe.config
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\Formstest.exe
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\Formstest.pdb
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\NLog.xml
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.codeex1.resources
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Confixbuttonl2.resources
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.ConfixLED.resources
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.exLED.resources
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.L1.resources
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.L2.resources
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Vcodel1.resources
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.VcodeLL1.resources
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.vpushbutton.resources
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.exe
+D:\โปรเจค\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.pdb
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.codeex1.resources
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Confixbuttonl2.resources
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.ConfixLED.resources
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.exLED.resources
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.L1.resources
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.L2.resources
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.Vcodel1.resources
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.VcodeLL1.resources
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.vpushbutton.resources
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.exe
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.pdb
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\Formstest.exe.config
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\Formstest.exe
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\Formstest.pdb
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\NLog.xml
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\DEMO\ล่าสุด\123\L12 demo  19.7.2561\L12 demo  19.7.2561\L12 demo  16.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\Formstest.exe.config
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\Formstest.exe
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\Formstest.pdb
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\ArduinoUploader.dll
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\NLog.dll
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\NLog.xml
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.codeex1.resources
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.Confixbuttonl2.resources
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.ConfixLED.resources
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.exLED.resources
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.L1.resources
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.L2.resources
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.Vcodel1.resources
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.VcodeLL1.resources
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.vpushbutton.resources
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.exe
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.pdb
+D:\โปรเจค\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.codeEx.resources
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\Formstest.exe.config
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\Formstest.exe
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\Formstest.pdb
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\NLog.xml
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.codeEx.resources
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.codeex1.resources
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.Confixbuttonl2.resources
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.ConfixLED.resources
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.exLED.resources
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.L1.resources
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.L2.resources
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.Vcodel1.resources
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.VcodeLL1.resources
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.vpushbutton.resources
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.exe
+D:\DoMo L1 COM 22.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.pdb
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\Formstest.exe.config
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\Formstest.exe
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\Formstest.pdb
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\NLog.xml
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.codeex1.resources
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.Confixbuttonl2.resources
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.ConfixLED.resources
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.exLED.resources
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.L1.resources
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.L2.resources
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.Vcodel1.resources
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.VcodeLL1.resources
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.vpushbutton.resources
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.exe
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.pdb
+D:\โปรเจค\DoMo L1 COM 24.7.2561\DoMo L1 COM 24.7.2561\DoMo L1 COM 22.7.2561\Formstest\Formstest\obj\Debug\Formstest.lesson2m.resources
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\bin\Debug\Formstest.exe.config
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\bin\Debug\Formstest.exe
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\bin\Debug\Formstest.pdb
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\bin\Debug\NLog.xml
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.codeex1.resources
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Confixbuttonl2.resources
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.ConfixLED.resources
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.exLED.resources
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.L1.resources
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.L2.resources
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.lesson2m.resources
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Vcodel1.resources
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.VcodeLL1.resources
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.vpushbutton.resources
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.exe
+D:\โปรเจค\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.pdb
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\bin\Debug\Formstest.exe.config
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\bin\Debug\Formstest.exe
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\bin\Debug\Formstest.pdb
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\bin\Debug\NLog.xml
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.codeex1.resources
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Confixbuttonl2.resources
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.ConfixLED.resources
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.exLED.resources
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.L1.resources
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.L2.resources
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.lesson2m.resources
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Vcodel1.resources
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.VcodeLL1.resources
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.vpushbutton.resources
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.exe
+D:\1.8.2561\Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.pdb
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\Formstest.exe.config
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\Formstest.exe
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\Formstest.pdb
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\ArduinoUploader.dll
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\NLog.dll
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\NLog.xml
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.lesson2m.resources
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.exe
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.pdb
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.lesson3m.resources
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.SelectColor.resources
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.UserControl1.resources
+D:\โปรเจค\FIX_Project 1.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.ExLed.resources
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.ExLed.resources
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.lesson2m.resources
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.lesson3m.resources
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.SelectColor.resources
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.UserControl1.resources
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.exe
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.pdb
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\Formstest.exe.config
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\Formstest.exe
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\Formstest.pdb
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\ArduinoUploader.dll
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\NLog.dll
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\NLog.xml
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.configL3.resources
+D:\โปรเจค\FIX_Project 13.8.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.lesson4m.resources
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\Formstest.exe.config
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\Formstest.exe
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\Formstest.pdb
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\ArduinoUploader.dll
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\NLog.dll
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\NLog.xml
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.configL3.resources
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.ExLed.resources
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.lesson2m.resources
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.lesson3m.resources
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.lesson4m.resources
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.SelectColor.resources
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.UserControl1.resources
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.exe
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.pdb
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.configL4.resources
+D:\โปรเจค\FIX_Project 1.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.configL44.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\Formstest.exe.config
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\Formstest.exe
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\Formstest.pdb
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\NLog.xml
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.configL3.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.configL4.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.configL44.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.ExLed.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.lesson2m.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.lesson3m.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.lesson4m.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.SelectColor.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.UserControl1.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.exe
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 1.8.2561\Formstest\Formstest\obj\Debug\Formstest.pdb
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\bin\Debug\Formstest.exe.config
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\bin\Debug\Formstest.exe
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\bin\Debug\Formstest.pdb
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\bin\Debug\NLog.xml
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.configL3.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.configL4.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.configL44.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.ExLed.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.lesson2m.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.lesson3m.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.lesson4m.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.SelectColor.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.UserControl1.resources
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.exe
+D:\1.8.2561\New folder\New folder (2)\2\New folder\FIX_Project 2.9.2561\FIX_Project 3.9.2561\Formstest\Formstest\obj\Debug\Formstest.pdb
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\Formstest.exe.config
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\Formstest.exe
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\Formstest.pdb
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\ArduinoUploader.dll
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\NLog.dll
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\NLog.xml
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.configL3.resources
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.configL4.resources
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.configL44.resources
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.ExLed.resources
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.Form1.resources
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.HOME.resources
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.lesson2m.resources
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.lesson3m.resources
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.lesson4m.resources
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.SelectColor.resources
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.UserControl1.resources
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.exe
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.pdb
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.ExButton.resources
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\obj\Debug\Formstest.ExRGB.resources
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\ArduinoDriver.dll
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\Microsoft.Win32.Registry.dll
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\System.Collections.Specialized.dll
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\System.IO.FileSystem.dll
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\System.Threading.Overlapped.dll
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\System.Threading.Thread.dll
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\System.Threading.ThreadPool.dll
+D:\โปรเจค\FIX_Project 14.9.2561\FIX_Project 14.9.2561\Formstest\Formstest\bin\Debug\RJCP.SerialPortStream.pdb
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\Formstest.exe.config
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\Formstest.exe
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\Formstest.pdb
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\ArduinoDriver.dll
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\ArduinoUploader.dll
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\Microsoft.Win32.Registry.dll
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\NLog.dll
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\System.Collections.Specialized.dll
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\System.IO.FileSystem.dll
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\System.Threading.Overlapped.dll
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\System.Threading.Thread.dll
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\System.Threading.ThreadPool.dll
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\NLog.xml
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.pdb
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.configL3.resources
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.configL4.resources
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.configL44.resources
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.ExButton.resources
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.ExLed.resources
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.ExRGB.resources
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.Form1.resources
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.HOME.resources
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.lesson2m.resources
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.lesson3m.resources
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.lesson4m.resources
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.SelectColor.resources
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.UserControl1.resources
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.exe
+D:\1.8.2561\FIX_Project 16.9.2561\Formstest\obj\Debug\Formstest.pdb
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\Formstest.exe.config
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\Formstest.exe
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\Formstest.pdb
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\ArduinoDriver.dll
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\ArduinoUploader.dll
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\Microsoft.Win32.Registry.dll
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\NLog.dll
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Collections.Specialized.dll
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.IO.FileSystem.dll
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Threading.Overlapped.dll
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Threading.Thread.dll
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Threading.ThreadPool.dll
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\NLog.xml
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.pdb
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.configL3.resources
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.configL4.resources
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.configL44.resources
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.ExButton.resources
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.ExLed.resources
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.ExRGB.resources
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.Form1.resources
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.HOME.resources
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.lesson2m.resources
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.lesson3m.resources
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.lesson4m.resources
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.SelectColor.resources
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.UserControl1.resources
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.exe
+D:\โปรเจค\FIX_Project 17.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.pdb
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\Formstest.exe.config
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\Formstest.exe
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\Formstest.pdb
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\ArduinoDriver.dll
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\ArduinoUploader.dll
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\Microsoft.Win32.Registry.dll
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\NLog.dll
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Collections.Specialized.dll
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.IO.FileSystem.dll
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Threading.Overlapped.dll
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Threading.Thread.dll
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Threading.ThreadPool.dll
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\NLog.xml
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.pdb
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.configL3.resources
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.configL4.resources
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.configL44.resources
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.ExButton.resources
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.ExLed.resources
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.ExRGB.resources
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.Form1.resources
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.HOME.resources
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.lesson2m.resources
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.lesson3m.resources
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.lesson4m.resources
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.SelectColor.resources
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.UserControl1.resources
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.exe
+D:\1.8.2561\21\New folder\FIX_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.pdb
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\Formstest.exe.config
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\Formstest.exe
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\Formstest.pdb
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\ArduinoDriver.dll
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\ArduinoUploader.dll
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\Microsoft.Win32.Registry.dll
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\NLog.dll
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Collections.Specialized.dll
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.IO.FileSystem.dll
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Threading.Overlapped.dll
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Threading.Thread.dll
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\System.Threading.ThreadPool.dll
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\NLog.xml
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.pdb
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.configL3.resources
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.configL4.resources
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.configL44.resources
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.ExButton.resources
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.ExLed.resources
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.ExRGB.resources
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.Form1.resources
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.HOME.resources
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.lesson2m.resources
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.lesson3m.resources
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.lesson4m.resources
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.SelectColor.resources
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.UserControl1.resources
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.exe
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.pdb
+D:\โปรเจค\FIX2_Project 21.9.2561\FIX_Project 17.9.2561\Formstest\obj\Debug\Formstest.ExDHT.resources
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\Formstest.exe.config
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\Formstest.exe
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\Formstest.pdb
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\ArduinoDriver.dll
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\ArduinoUploader.dll
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\Microsoft.Win32.Registry.dll
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\NLog.dll
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\System.Collections.Specialized.dll
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\System.IO.FileSystem.dll
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\System.Threading.Overlapped.dll
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\System.Threading.Thread.dll
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\System.Threading.ThreadPool.dll
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\NLog.xml
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.pdb
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.configL3.resources
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.configL4.resources
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.configL44.resources
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.ExButton.resources
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.ExDHT.resources
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.ExLed.resources
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.ExRGB.resources
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.Form1.resources
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.HOME.resources
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.lesson2m.resources
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.lesson3m.resources
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.lesson4m.resources
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.SelectColor.resources
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.UserControl1.resources
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.exe
+D:\1.8.2561\FIX2_Project 24.9.2561\Formstest\obj\Debug\Formstest.pdb
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\Formstest.exe.config
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\Formstest.exe
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\Formstest.pdb
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\ArduinoDriver.dll
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\ArduinoUploader.dll
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\Microsoft.Win32.Registry.dll
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\NLog.dll
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\System.Collections.Specialized.dll
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\System.IO.FileSystem.dll
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\System.Threading.Overlapped.dll
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\System.Threading.Thread.dll
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\System.Threading.ThreadPool.dll
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\NLog.xml
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.pdb
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.configL3.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.configL4.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.configL44.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.ExButton.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.ExDHT.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.ExLed.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.ExRGB.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.Form1.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.HOME.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.lesson2m.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.lesson3m.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.lesson4m.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.SelectColor.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.UserControl1.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.exe
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.pdb
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.configL44_2.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.configL4_2.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.lesson4m2.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.TestDHT_Ex.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.back_to_DHT_Ex.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.ExUltrasonic.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.testUltrasonic_Ex.resources
+D:\โปรเจค\FIX22_Project 24.9.2561\FIX22_Project 24.9.2561\Formstest\obj\Debug\Formstest.back_to_Ultrasonic_Ex.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\Formstest.exe.config
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\Formstest.exe
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\Formstest.pdb
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\ArduinoDriver.dll
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\ArduinoUploader.dll
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\Microsoft.Win32.Registry.dll
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\NLog.dll
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\System.Collections.Specialized.dll
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\System.IO.FileSystem.dll
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\System.Threading.Overlapped.dll
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\System.Threading.Thread.dll
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\System.Threading.ThreadPool.dll
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\NLog.xml
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.pdb
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.back_to_Ultrasonic_Ex.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.configL44_2.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.configL4_2.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.configL3.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.configL4.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.configL44.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.ExButton.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.ExDHT.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.ExLed.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.ExRGB.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.ExUltrasonic.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.lesson4m2.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.Form1.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.HOME.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.lesson2m.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.lesson3m.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.lesson4m.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.SelectColor.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.TestDHT_Ex.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.back_to_DHT_Ex.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.testUltrasonic_Ex.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.UserControl1.resources
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.exe
+D:\1.8.2561\30.9.2661\FIX22_Project 30.9.2561\FIX22_Project 30.9.2561\Formstest\obj\Debug\Formstest.pdb
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\Formstest.exe.config
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\Formstest.exe
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\Formstest.pdb
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\ArduinoDriver.dll
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\ArduinoUploader.dll
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\Microsoft.Win32.Registry.dll
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\NLog.dll
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\System.Collections.Specialized.dll
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\System.IO.FileSystem.dll
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\System.Threading.Overlapped.dll
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\System.Threading.Thread.dll
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\System.Threading.ThreadPool.dll
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\NLog.xml
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\RJCP.SerialPortStream.pdb
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.back_to_Ultrasonic_Ex.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.configL44_2.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.configL4_2.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.configL3.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.configL4.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.configL44.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.ExButton.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.ExDHT.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.ExLed.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.ExRGB.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.ExUltrasonic.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.lesson4m2.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.Form1.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.HOME.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.lesson2m.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.lesson3m.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.lesson4m.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.SelectColor.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.TestDHT_Ex.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.back_to_DHT_Ex.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.testUltrasonic_Ex.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.UserControl1.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.exe
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.pdb
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.lesson5m.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.back_to_L5.resources
+D:\โปรเจค\FIX22_Project 1.10.2561\FIX22_Project 1.10.2561\Formstest\obj\Debug\Formstest.configL5.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\Formstest.exe.config
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\Formstest.exe
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\Formstest.pdb
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\ArduinoDriver.dll
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\ArduinoUploader.dll
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\Microsoft.Win32.Registry.dll
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\NLog.dll
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\System.Collections.Specialized.dll
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\System.IO.FileSystem.dll
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\System.Threading.Overlapped.dll
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\System.Threading.Thread.dll
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\System.Threading.ThreadPool.dll
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\NLog.xml
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\RJCP.SerialPortStream.pdb
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.back_to_L5.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.back_to_Ultrasonic_Ex.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.configL44_2.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.configL4_2.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.configL3.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.configL4.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.configL44.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.configL5.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.ExButton.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.ExDHT.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.ExLed.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.ExRGB.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.ExUltrasonic.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.lesson4m2.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.Form1.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.HOME.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.lesson2m.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.lesson3m.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.lesson4m.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.lesson5m.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.SelectColor.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.TestDHT_Ex.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.back_to_DHT_Ex.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.testUltrasonic_Ex.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.Uplodeexl1.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.UserControl1.resources
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.exe
+D:\1.8.2561\30.9.2661\3.10.2561\FIX22_Project 3.10.2561\Formstest\obj\Debug\Formstest.pdb
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\Formstest.exe.config
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\Formstest.exe
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\Formstest.pdb
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\ArduinoDriver.dll
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\ArduinoUploader.dll
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\IntelHexFormatReader.dll
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\Microsoft.Win32.Registry.dll
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\NLog.dll
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\RJCP.SerialPortStream.dll
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\System.Collections.Specialized.dll
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\System.IO.FileSystem.dll
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\System.Threading.Overlapped.dll
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\System.Threading.Thread.dll
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\System.Threading.ThreadPool.dll
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\NLog.xml
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\RJCP.SerialPortStream.pdb
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\bin\Debug\RJCP.SerialPortStream.xml
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.csprojAssemblyReference.cache
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.back_to_L5.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.back_to_Ultrasonic_Ex.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.configL44_2.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.configL4_2.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.configL3.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.configL4.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.configL44.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.configL5.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.ExButton.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.ExDHT.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.ExLed.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.ExRGB.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.ExUltrasonic.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.lesson4m2.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.Form1.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.HOME.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.lesson1m.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.lesson2m.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.lesson3m.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.lesson4m.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.lesson5m.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.Properties.Resources.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.SelectColor.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.TestDHT_Ex.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.back_to_DHT_Ex.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.testUltrasonic_Ex.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.UploadL1.resources
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.csproj.GenerateResource.cache
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.csproj.CoreCompileInputs.cache
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.csproj.CopyComplete
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.exe
+D:\โปรเจค\FIX22_Project 4.10.2561\FIX22_Project 4.10.2561\Formstest\obj\Debug\Formstest.pdb

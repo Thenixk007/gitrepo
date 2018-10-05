@@ -1,0 +1,479 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C98995F2-5CD4-428F-AD2C-9A5EB0E0300D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Formstest</RootNamespace>
+    <AssemblyName>Formstest</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ArduinoDriver, Version=2.4.6.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ArduinoDriver.2.4.6\lib\net452\ArduinoDriver.dll</HintPath>
+    </Reference>
+    <Reference Include="ArduinoUploader, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ArduinoUploader.3.2.0\lib\net452\ArduinoUploader.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\UI\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="IntelHexFormatReader, Version=2.2.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\IntelHexFormatReader.2.2.3\lib\net46\IntelHexFormatReader.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.Win32.Registry, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Win32.Registry.4.3.0\lib\net46\Microsoft.Win32.Registry.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <HintPath>..\packages\NLog.4.4.10\lib\net45\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="RJCP.SerialPortStream, Version=2.1.4.0, Culture=neutral, PublicKeyToken=5f5e7b70c6a74deb, processorArchitecture=MSIL">
+      <HintPath>..\packages\SerialPortStream.2.1.4\lib\net45\RJCP.SerialPortStream.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Collections.Specialized, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Collections.Specialized.4.3.0\lib\net46\System.Collections.Specialized.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.FileVersionInfo, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.FileVersionInfo.4.3.0\lib\net46\System.Diagnostics.FileVersionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.TraceSource, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.TraceSource.4.3.0\lib\net46\System.Diagnostics.TraceSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.4.3.0\lib\net46\System.IO.FileSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.Primitives.4.3.0\lib\net46\System.IO.FileSystem.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.InteropServices.RuntimeInformation.4.3.0\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Overlapped, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Overlapped.4.3.0\lib\net46\System.Threading.Overlapped.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Thread, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Thread.4.3.0\lib\net46\System.Threading.Thread.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.ThreadPool, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.ThreadPool.4.3.0\lib\net46\System.Threading.ThreadPool.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="back_to_L5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="back_to_L5.Designer.cs">
+      <DependentUpon>back_to_L5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="back_to_Ultrasonic_Ex.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="back_to_Ultrasonic_Ex.Designer.cs">
+      <DependentUpon>back_to_Ultrasonic_Ex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="configL44_2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="configL44_2.Designer.cs">
+      <DependentUpon>configL44_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="configL4_2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="configL4_2.Designer.cs">
+      <DependentUpon>configL4_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="configL3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="configL3.Designer.cs">
+      <DependentUpon>configL3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="configL4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="configL4.Designer.cs">
+      <DependentUpon>configL4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="configL44.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="configL44.Designer.cs">
+      <DependentUpon>configL44.cs</DependentUpon>
+    </Compile>
+    <Compile Include="configL5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="configL5.Designer.cs">
+      <DependentUpon>configL5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ExButton.Designer.cs">
+      <DependentUpon>ExButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExDHT.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ExDHT.Designer.cs">
+      <DependentUpon>ExDHT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExLed.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ExLed.Designer.cs">
+      <DependentUpon>ExLed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExRGB.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ExRGB.Designer.cs">
+      <DependentUpon>ExRGB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExUltrasonic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ExUltrasonic.Designer.cs">
+      <DependentUpon>ExUltrasonic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lesson4m2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="lesson4m2.Designer.cs">
+      <DependentUpon>lesson4m2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOME.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HOME.Designer.cs">
+      <DependentUpon>HOME.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lesson1m.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="lesson1m.Designer.cs">
+      <DependentUpon>lesson1m.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lesson2m.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="lesson2m.Designer.cs">
+      <DependentUpon>lesson2m.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lesson3m.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="lesson3m.Designer.cs">
+      <DependentUpon>lesson3m.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lesson4m.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="lesson4m.Designer.cs">
+      <DependentUpon>lesson4m.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lesson5m.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="lesson5m.Designer.cs">
+      <DependentUpon>lesson5m.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SelectColor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SelectColor.Designer.cs">
+      <DependentUpon>SelectColor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestDHT_Ex.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TestDHT_Ex.Designer.cs">
+      <DependentUpon>TestDHT_Ex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="back_to_DHT_Ex.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="back_to_DHT_Ex.Designer.cs">
+      <DependentUpon>back_to_DHT_Ex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="testUltrasonic_Ex.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="testUltrasonic_Ex.Designer.cs">
+      <DependentUpon>testUltrasonic_Ex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UploadL1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UploadL1.Designer.cs">
+      <DependentUpon>UploadL1.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="back_to_L5.resx">
+      <DependentUpon>back_to_L5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="back_to_Ultrasonic_Ex.resx">
+      <DependentUpon>back_to_Ultrasonic_Ex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="configL44_2.resx">
+      <DependentUpon>configL44_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="configL4_2.resx">
+      <DependentUpon>configL4_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="configL3.resx">
+      <DependentUpon>configL3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="configL4.resx">
+      <DependentUpon>configL4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="configL44.resx">
+      <DependentUpon>configL44.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="configL5.resx">
+      <DependentUpon>configL5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExButton.resx">
+      <DependentUpon>ExButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExDHT.resx">
+      <DependentUpon>ExDHT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExLed.resx">
+      <DependentUpon>ExLed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExRGB.resx">
+      <DependentUpon>ExRGB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExUltrasonic.resx">
+      <DependentUpon>ExUltrasonic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lesson4m2.resx">
+      <DependentUpon>lesson4m2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOME.resx">
+      <DependentUpon>HOME.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lesson1m.resx">
+      <DependentUpon>lesson1m.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lesson2m.resx">
+      <DependentUpon>lesson2m.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lesson3m.resx">
+      <DependentUpon>lesson3m.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lesson4m.resx">
+      <DependentUpon>lesson4m.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lesson5m.resx">
+      <DependentUpon>lesson5m.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SelectColor.resx">
+      <DependentUpon>SelectColor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestDHT_Ex.resx">
+      <DependentUpon>TestDHT_Ex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="back_to_DHT_Ex.resx">
+      <DependentUpon>back_to_DHT_Ex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="testUltrasonic_Ex.resx">
+      <DependentUpon>testUltrasonic_Ex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UploadL1.resx">
+      <DependentUpon>UploadL1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_home_black_18dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-red.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-green.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-blue.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-yellow.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2000px-Button_Icon_BlueSky.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\64px-Button_Icon_BlueSky.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-purple.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\64px-Button_Icon_White.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rainbow_Paintball.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rainbow_flag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rainbow_Paintball1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-products.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\40435620_583362168786817_6297748440621252608_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\63581.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ddW.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LED1.50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LED1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ddup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dd1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dd2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\infrared_sensor_64px_1169363_easyicon.net.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AAA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buzzer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dht.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LCD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LED.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rgb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Unta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\จั้ม.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LED 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\USB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\43027871_242998803051822_2994358092470157312_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\43047882_947359175450129_2080261164935151616_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buzee1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\L51.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

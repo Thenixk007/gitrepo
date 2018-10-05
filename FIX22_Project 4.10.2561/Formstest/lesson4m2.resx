@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="howto_lb.Text" xml:space="preserve">
+    <value>A.นำสายจั้มต่อเข้ากับ GND กับ V5
+B.นำสายจั้มต่อเข้ากับ pin2 
+C.นำสายจั้มอีกด้านชอง GND กับ V5 ต่อกับโปโตรบอร์ด ดังรูป
+D.นำสายจั้มอีกด้านชอง pin 2 ต่อกับโปรโตบอร์ ดังรูป
+E.นำเซนเซอร์ DHT มาต่อกับโปรโตบอร์ สายสีดำต่อขั่วลบ สายสีแดงต่อขั่วบวก สายสีเหลืองต่อให้ตรงกับ pin 2 ดังรูป
+
+</value>
+  </data>
+  <data name="code_L2.Text" xml:space="preserve">
+    <value>//ก่อนที่คุณจะ upload code คุณต้องลง libraly ก่อนนะครับ
+
+#include "DHT.h"
+
+DHT dht;
+
+void setup(){
+  Serial.begin(9600);
+  dht.setup(2); // data pin 2
+}
+
+void loop()
+{
+  float temperature = dht.getTemperature(); // ดึงค่าอุณหภูมิ
+  float humidity = dht.getHumidity(); // ดึงค่าความชื้น
+  Serial.print(humidity,1); 
+  Serial.print(",");
+  Serial.println(temperature, 1);
+  delay(1000);
+
+}</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="Bconn2.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAK4AAABNCAYAAAA/3F/CAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMbSURBVHhe7d3PS9NxHMfx/qIOHYTAkpKSZSGilBWyQFGk
+        GmQihdUhCiwx88dwNTXTyRS2NlYgBKGEEtVBKsryYBDskCKK7CB1eLf39m05XN7U7xueD3iB7Os8PRmf
+        79fD9jUkEsKYtREuMznCZSZHuMzkCJeZHOEyk9s23Pp4TKrGesUz2CbHHzVLcV+D7O84w9iOTPvSzjwD
+        16Ry9KHUxSMFu9T9N9zT4YAc8jeKL9Ypk/Oz8v7HZ0muLQmwU7Qv7ezVwjtpfd4jh9P9VYe6C/a5JVyt
+        /OSTW+IN35bl1KrzJ4Hdt76RkpZEt5QFW+XCs4m8TvPC1WhLAz6Jfpxy3grsvZnFOTkxcFW80XDhcPWT
+        lmjhRnqE0PPvlnD1TKvHA8Ct7k2NSuXI/X/h6tMDvRHjTAs32/j9K31kaJbaSCgbrj560Ls4wO0ev4nJ
+        qeE72XD1uZk+ggDc7uvP73Kk/3I23BJ/kyyuJJ1LgHvpceHAg/PZcIu6vJlnZoAF+l+2TLj6A2AF4cIk
+        woVJhAuTCBcmES5MIlyYRLgwiXBhEuHCJMKFSYQLkwgXJhEuTCJcmES4MIlwYRLhwiTChUmEC5MIFyYR
+        LkwiXJhEuDCJcGES4cIkwoVJhAuTCBcmES5MIlyYRLgwiXBhEuHCJMKFSYQLkwgXJhEuTCJcmES4MIlw
+        YRLhwiTChUmEC5Ny4eq3Ueu3UgMW5MIt7muQ5NqS8zLgbrlwy4KtMrM457wMuNfiSlJK/E3ZcCuG26Vj
+        OuRcAtwr/mlayoduZsP1RsNyLHCJcy5crzHSLtVj/my4usqRdul6Pe5cBtznxZcZKR9sy/SaC7c+HhNP
+        sEU+JBecXwPcYzm1Kkf7L0pdPJIfrq42EkrHeyVzAAbcQqOtGWmTmvFgrtW8cHXnJoakNOCTwGzUeRuw
+        d15+e5v5pN0crW5LuDo9NlQ8vStnR29k7uK0eGC3rG+kZHJ+VnyxzvSZ9nrueLB5BcP9O61cHz0c7KnL
+        PPRlbDdW1OUVT/omrGqst2CXum3DZcytI1xmcoTLTI5wmckRLjO4hPwBTZdt2BAIZVkAAAAASUVORK5C
+        YII=
+</value>
+  </data>
+  <data name="Bconn.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAK4AAABNCAYAAAA/3F/CAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMbSURBVHhe7d3PS9NxHMfx/qIOHYTAkpKSZSGilBWyQFGk
+        GmQihdUhCiwx88dwNTXTyRS2NlYgBKGEEtVBKsryYBDskCKK7CB1eLf39m05XN7U7xueD3iB7Os8PRmf
+        79fD9jUkEsKYtREuMznCZSZHuMzkCJeZHOEyk9s23Pp4TKrGesUz2CbHHzVLcV+D7O84w9iOTPvSzjwD
+        16Ry9KHUxSMFu9T9N9zT4YAc8jeKL9Ypk/Oz8v7HZ0muLQmwU7Qv7ezVwjtpfd4jh9P9VYe6C/a5JVyt
+        /OSTW+IN35bl1KrzJ4Hdt76RkpZEt5QFW+XCs4m8TvPC1WhLAz6Jfpxy3grsvZnFOTkxcFW80XDhcPWT
+        lmjhRnqE0PPvlnD1TKvHA8Ct7k2NSuXI/X/h6tMDvRHjTAs32/j9K31kaJbaSCgbrj560Ls4wO0ev4nJ
+        qeE72XD1uZk+ggDc7uvP73Kk/3I23BJ/kyyuJJ1LgHvpceHAg/PZcIu6vJlnZoAF+l+2TLj6A2AF4cIk
+        woVJhAuTCBcmES5MIlyYRLgwiXBhEuHCJMKFSYQLkwgXJhEuTCJcmES4MIlwYRLhwiTChUmEC5MIFyYR
+        LkwiXJhEuDCJcGES4cIkwoVJhAuTCBcmES5MIlyYRLgwiXBhEuHCJMKFSYQLkwgXJhEuTCJcmES4MIlw
+        YRLhwiTChUmEC5Ny4eq3Ueu3UgMW5MIt7muQ5NqS8zLgbrlwy4KtMrM457wMuNfiSlJK/E3ZcCuG26Vj
+        OuRcAtwr/mlayoduZsP1RsNyLHCJcy5crzHSLtVj/my4usqRdul6Pe5cBtznxZcZKR9sy/SaC7c+HhNP
+        sEU+JBecXwPcYzm1Kkf7L0pdPJIfrq42EkrHeyVzAAbcQqOtGWmTmvFgrtW8cHXnJoakNOCTwGzUeRuw
+        d15+e5v5pN0crW5LuDo9NlQ8vStnR29k7uK0eGC3rG+kZHJ+VnyxzvSZ9nrueLB5BcP9O61cHz0c7KnL
+        PPRlbDdW1OUVT/omrGqst2CXum3DZcytI1xmcoTLTI5wmckRLjO4hPwBTZdt2BAIZVkAAAAASUVORK5C
+        YII=
+</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>A.นำสายจั้มต่อเข้ากับ GND กับ V5
+B.นำสายจั้มต่อเข้ากับ pin2 
+C.นำสายจั้มอีกด้านชอง GND กับ V5 ต่อกับโปโตรบอร์ด ดังรูป
+D.นำสายจั้มอีกด้านชอง pin 2 ต่อกับโปรโตบอร์ ดังรูป
+E.นำเซนเซอร์ DHT มาต่อกับโปรโตบอร์ สายสีดำต่อขั่วลบ สายสีแดงต่อขั่วบวก สายสีเหลืองต่อให้ตรงกับ pin 2 ดังรูป
+
+</value>
+  </data>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>// กำหนด pin
+const int trigPin = 9;
+const int echoPin = 10;
+
+// defines variables
+long duration;
+int distance;
+
+void setup() {
+    pinMode(trigPin, OUTPUT); 
+    pinMode(echoPin, INPUT); 
+    Serial.begin(9600); 
+}
+void loop() {
+    digitalWrite(trigPin, LOW);
+    delayMicroseconds(2);
+    // ตั้งค่า trigPin ในสถานะ HIGH เป็นเวลา 10 มิลลิวินาที
+    digitalWrite(trigPin, HIGH);
+    delayMicroseconds(10);
+    digitalWrite(trigPin, LOW);
+    // อ่าน echoPin ส่งกลับค่าเวลาในการเดินทางของคลื่นเสียงเป็นมิลลิวินาที
+    duration = pulseIn(echoPin, HIGH);
+    // การคำนวณระยะทาง
+    distance= duration*0.034/2;
+    // พิมพ์ระยะทางบน Serial Monitor
+    Serial.print("Distance: ");
+    Serial.println(distance);
+}</value>
+  </data>
+</root>
